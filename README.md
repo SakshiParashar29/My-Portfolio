@@ -1,7 +1,6 @@
 # My Portfolio Website
 
 A personal website created with the vision to showcase my skills, built using Next.js and TypeScript, providing an easy way to explore my work and get in touch.
----
 
 ## About
 
