@@ -17,7 +17,7 @@ export const ThemeProvider = ({ children }: { children: ReactNode }) => {
   const [mounted, setMounted] = useState(false); 
 
   useEffect(() => {
-    const storedTheme = localStorage.getItem("theme");
+    const storedTheme = localStorage.getItem("civic-theme");
     const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
 
     if (storedTheme === "dark" || (!storedTheme && prefersDark)) {
@@ -34,7 +34,7 @@ export const ThemeProvider = ({ children }: { children: ReactNode }) => {
   const toggleTheme = () => {
     setDarkMode((prev) => {
       const newTheme = !prev;
-      localStorage.setItem("theme", newTheme ? "dark" : "light");
+      localStorage.setItem("civic-theme", newTheme ? "dark" : "light");
       if (newTheme) document.documentElement.classList.add("dark");
       else document.documentElement.classList.remove("dark");
       return newTheme;

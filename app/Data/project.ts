@@ -12,9 +12,9 @@ export const projects: Project[] = [
     {
         title:"CivicVoice",
         description:"CivicVoice is a platform where you can directly connect with your local municipality to share community problems, upvote issues that need attention, and track their progress as the authorities work to solve them.",
-        gitHubLink:"https://github.com/SakshiParashar29/CivicVoice",
+        gitHubLink:"https://github.com/SakshiParashar29/Civic-Voice",
         demoLink:"https://civic-voice-ten.vercel.app/",
-        technology:["ReactJs", "JavaScript", "TailwindCss", "Rest API", "MongoDB", "ExpressJs", "Vercel", "Render"],
+        technology:["NextJs", "TypeScript", "TailwindCss", "MongoDB","Vercel"],
         image: "/codePhoto.jpg",
     },
     {

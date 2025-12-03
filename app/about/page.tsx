@@ -35,7 +35,6 @@ const page = () => {
             <ul className='dark:text-gray-200  text-gray-600 space-y-2 text-xl'>
               <li>React Js</li>
               <li>Next Js</li>
-              <li>TypeScript</li>
               <li>TailwindCss</li>
               <li>HTML5 / CSS3</li>
             </ul>
@@ -75,6 +74,7 @@ const page = () => {
               <li>C programming</li>
               <li>C++</li>
               <li>JavaScript</li>
+              <li>TypeScript</li>
             </ul>
           </motion.div>
         </motion.div>
