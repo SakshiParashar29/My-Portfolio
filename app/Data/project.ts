@@ -5,16 +5,16 @@ export const projects: Project[] = [
        title: "CodeDejaVu",
        description: "CodeDejaVu is a platform that helps you mark coding problems for revision and learn them better with smart revision techniques. You can see all your marked problems and popular coding sheets in one place, making your coding practice easy and well organized.",
        gitHubLink: "https://github.com/SakshiParashar29/CodeDejaVu",
-       demoLink: "https://civic-voice-ten.vercel.app/",
-       technology: ["NextJs", "TypeScript", "TailwindCss", "MongoDB","Vercel"],
+       demoLink: "https://code-deja-vu.vercel.app/",
+       technology:  ["ReactJs", "JavaScript", "TailwindCss", "NodeJs", "ExpressJs", "MongoDB", "Vercel", "Render"],
        image: "/codePhoto.jpg"
     },
     {
         title:"CivicVoice",
         description:"CivicVoice is a platform where you can directly connect with your local municipality to share community problems, upvote issues that need attention, and track their progress as the authorities work to solve them.",
         gitHubLink:"https://github.com/SakshiParashar29/Civic-Voice",
-        demoLink:"https://civic-voice-ten.vercel.app/",
-        technology:["ReactJs", "JavaScript", "TailwindCss", "Rest API", "MongoDB", "ExpressJs", "Vercel", "Render"],
+        demoLink:"https://civic-voice-pmqq.vercel.app/",
+        technology:["NextJs", "TypeScript", "TailwindCss", "MongoDB","Vercel"],
         image: "/codePhoto.jpg",
     },
     {
