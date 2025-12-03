@@ -1,7 +1,6 @@
 # My Portfolio Website
 
-A personal portfolio website built with **Next.js**, **TypeScript**, and **Nodemailer** to showcase my projects, skills, and contact information.
-
+A personal website created with the vision to showcase my skills, built using Next.js and TypeScript, providing an easy way to explore my work and get in touch.
 ---
 
 ## About
@@ -37,5 +36,3 @@ Check out the live site here:
 - Tailwind CSS
 
 ---
-```bash
-git clone https://github.com/yourusername/your-portfolio.git
