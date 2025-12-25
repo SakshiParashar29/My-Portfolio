@@ -11,10 +11,11 @@ export default function Footer() {
               Sakshi
             </Link>
             <p className="text-sm text-secondary mt-2">
-              © {new Date().getFullYear()} Sakshi&trade;. All rights reserved.
+              Open to opportunities — feel free to connect or reach out
             </p>
+
           </div>
-          
+
           <div className="flex space-x-6">
             <a
               href="https://github.com/SakshiParashar29"

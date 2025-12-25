@@ -62,3 +62,36 @@
     opacity: 1;
   }
 } */
+
+.constellation-bg {
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(circle at bottom, #0b1020 0%, #02030a 70%);
+  overflow: hidden;
+  z-index: 0;
+}
+
+@keyframes twinkle {
+  0%, 100% {
+    opacity: 1;
+    filter: brightness(1);
+  }
+  50% {
+    opacity: 0.3;
+    filter: brightness(2);
+  }
+}
+
+.star {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background: white;
+  border-radius: 50%;
+  opacity: 0.8;
+  box-shadow: 0 0 6px rgba(255, 255, 255, 0.6);
+
+  animation-name: twinkle;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}

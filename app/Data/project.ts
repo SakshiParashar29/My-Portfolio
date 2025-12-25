@@ -7,15 +7,15 @@ export const projects: Project[] = [
        gitHubLink: "https://github.com/SakshiParashar29/CodeDejaVu",
        demoLink: "https://code-deja-vu.vercel.app/",
        technology: ["ReactJs", "JavaScript", "TailwindCss", "NodeJs", "ExpressJs", "MongoDB", "Vercel", "Render"],
-       image: "/codePhoto.jpg"
+       image: "/codeDejaVu dashboard.png"
     },
     {
         title:"CivicVoice",
         description:"CivicVoice is a platform where you can directly connect with your local municipality to share community problems, upvote issues that need attention, and track their progress as the authorities work to solve them.",
         gitHubLink:"https://github.com/SakshiParashar29/Civic-Voice",
-        demoLink:"https://civic-voice-ten.vercel.app/",
+        demoLink:"https://civic-voice-pmqq.vercel.app/",
         technology:["NextJs", "TypeScript", "TailwindCss", "MongoDB","Vercel"],
-        image: "/codePhoto.jpg",
+        image: "/civicVoice light.png",
     },
     {
         title:"MetricAtlas",
@@ -23,7 +23,7 @@ export const projects: Project[] = [
         gitHubLink:"https://github.com/SakshiParashar29/Web-Development-Projects/tree/main/MetricAtlas",
         demoLink:"https://web-development-projects-2jis.vercel.app/",
         technology:["ReactJs", "Recharts", "JavaScript", "Local Rest API", "TailwindCSS", "Vercel"],
-        image: "/codePhoto.jpg",
+        image: "/MetricAtlas.png",
     },
     {
         title:"KisanSetu",
@@ -31,7 +31,7 @@ export const projects: Project[] = [
         gitHubLink:"https://github.com/SakshiParashar29/CodeDejaVu/tree/main/Components",
         demoLink:"https://web-development-projects-r5pg.vercel.app/",
         technology:["ReactJs", "Recharts", "JavaScript", "Rest API", "TailwindCSS", "Vercel"],
-        image: "/codePhoto.jpg",
+        image: "/KisanSetu Light.png",
     },
     {
         title:"RazorPay Clone",
@@ -39,7 +39,7 @@ export const projects: Project[] = [
         gitHubLink:"https://github.com/SakshiParashar29/Web-Development-Projects/tree/main/RazorPay%20UI%20Clone",
         demoLink:"https://web-development-projects-s9sr.vercel.app/",
         technology:["TailwindCss", "Vercel"],
-        image: "/codePhoto.jpg",
+        image: "/RazorPay.png",
     },
     {
         title:"To-do List",
@@ -47,7 +47,7 @@ export const projects: Project[] = [
         gitHubLink:"https://github.com/SakshiParashar29/Web-Development-Projects/tree/main/To-Do%20list",
         demoLink:"https://web-development-projects-sooty.vercel.app/",
         technology:["HTML", "CSS", "JavaScript"],
-        image: "/codePhoto.jpg",
+        image: "/To-do List.png",
     },
     {
         title:"Weather App",
@@ -55,6 +55,6 @@ export const projects: Project[] = [
         gitHubLink:"https://github.com/SakshiParashar29/Web-Development-Projects/tree/main/Weather%20App",
         demoLink:"https://web-development-projects-5qyd.vercel.app/",
         technology:["HTML", "CSS", "JavaScript", "OpenWeatherMap API"],
-        image: "/codePhoto.jpg"
+        image: "/Weather App.png"
     },
 ]

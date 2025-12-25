@@ -73,6 +73,7 @@ const page = () => {
             <ul className='dark:text-gray-200  text-gray-600 space-y-2 text-xl'>
               <li>C programming</li>
               <li>C++</li>
+              <li>SQL</li>
               <li>JavaScript</li>
               <li>TypeScript</li>
             </ul>
