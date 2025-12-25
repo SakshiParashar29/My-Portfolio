@@ -7,7 +7,7 @@ export const projects: Project[] = [
        gitHubLink: "https://github.com/SakshiParashar29/CodeDejaVu",
        demoLink: "https://code-deja-vu.vercel.app/",
        technology: ["ReactJs", "JavaScript", "TailwindCss", "NodeJs", "ExpressJs", "MongoDB", "Vercel", "Render"],
-       image: "/codeDejaVu dashboard.png"
+       image: "/codedejavu-dashboard.png"
     },
     {
         title:"CivicVoice",
@@ -15,7 +15,7 @@ export const projects: Project[] = [
         gitHubLink:"https://github.com/SakshiParashar29/Civic-Voice",
         demoLink:"https://civic-voice-pmqq.vercel.app/",
         technology:["NextJs", "TypeScript", "TailwindCss", "MongoDB","Vercel"],
-        image: "/civicVoice light.png",
+        image: "/civicvoice-light.png",
     },
     {
         title:"MetricAtlas",
